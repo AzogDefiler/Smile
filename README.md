@@ -7,7 +7,7 @@ smile/non smile:
              precision    recall  f1-score   support
 
       smile       0.85      0.94      0.89     34629
- none_smile       0.75      0.53      0.62     12207
+      none_smile       0.75      0.53      0.62     12207
 
 avg / total       0.82      0.83      0.82     46836
 
