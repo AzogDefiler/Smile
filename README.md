@@ -1,5 +1,5 @@
 # Smile
-Smile detector 
+(Smile/open mouth) detector 
 result model mean:
 
 smile/non smile: 
