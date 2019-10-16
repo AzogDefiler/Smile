@@ -1,6 +1,7 @@
 # Smile
 Smile detector 
 result model mean:
+
 class: smile/non smile: 
  ------------------------------------------------------------------------------------------
              precision    recall  f1-score   support
