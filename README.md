@@ -2,7 +2,7 @@
 Smile detector 
 result model mean:
 
-class: smile/non smile: 
+smile/non smile: 
  ------------------------------------------------------------------------------------------
              precision    recall  f1-score   support
 
@@ -11,7 +11,7 @@ class: smile/non smile:
 
 avg / total       0.82      0.83      0.82     46836
 
-class: open mouth/close mouth: 
+open mouth/close mouth: 
  ------------------------------------------------------------------------------------------
              precision    recall  f1-score   support
 
