@@ -1,9 +1,10 @@
 # Smile
+-----------------------------------
 (Smile/open mouth) detector 
-base model: pretrained InceptionResNetV2
-dataset: https://www.crcv.ucf.edu/data/Selfie/
-input: image
-output: 2 class (smile/non smile), (open mouth/close mouth)
+* base model: pretrained InceptionResNetV2
+* dataset: https://www.crcv.ucf.edu/data/Selfie/
+* input: image
+* output: 2 class (smile/non smile), (open mouth/close mouth)
 result model mean:
 
 smile/non smile: 
